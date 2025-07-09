@@ -1,0 +1,32 @@
+.main-navbar-container {
+    background-color: #272727;
+    height: 60px;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 0px auto;
+}
+
+.navbar-logo-container {
+    padding: 5px;
+}
+
+.logo-img {
+    height: 40px;
+}
+
+.navbar-link-lists {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+
+.link {
+    color: #f1f5f9;
+    cursor: pointer;
+    text-decoration: none;
+}

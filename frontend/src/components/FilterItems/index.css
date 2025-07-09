@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.profile-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+    background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+    padding: 25px;
+    border-radius: 5px;
+    background-size: cover;
+    width: 320px;
+    height: 280px;
+    color: #2c364c;
+    margin: auto;
+}
+
+.retry-container {
+    width: 320px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.profile-name {
+    color: #4f46e5;
+    font-size: 32px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.filter-type-lists,
+.filter-salary-lists {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: #fff;
+}
+
+hr {
+    color: #fff;
+    margin: 15px 0px;
+}
+
+.filter-salary-heading,
+.filter-type-heading {
+    margin-bottom: 15px;
+}
