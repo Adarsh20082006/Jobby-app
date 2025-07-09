@@ -1,9 +1,7 @@
-# Creating the README.md content for the Jobby App project
 
-readme_content = """
 # 📘 Jobby App
 
-A fully functional job search web application built with **React**, **React Router**, and **REST APIs**. It allows users to search and apply for jobs, view company details, and filter jobs based on employment type, salary, and keywords.
+A fully responsive job search web application built with **React**, **React Router**, and **REST APIs**. It allows users to search and apply for jobs, view company details, and filter jobs based on employment type, salary, and keywords.
 
 ---
 
